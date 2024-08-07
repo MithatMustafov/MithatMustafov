@@ -42,7 +42,9 @@ Here are some ideas to get you started:
 
 
 ## 📊 GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=MithatMustafov&theme=tokyonight&hide_border=true)<br/>
-
+<div style="display: flex; flex-direction: row;"> 
+<img style="width: auto; height: 200px;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=MithatMustafov&theme=tokyonight&hide_border=true"/>
+<img style="width: auto; height: 200px;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatMustafov&layout=compact&theme=tokyonight"/>
+</div>
 
 
