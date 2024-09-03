@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats :
 <div style="display: flex; flex-direction: row;"> 
 <img style="width: auto; height: 190px;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=MithatMustafov&theme=tokyonight&hide_border=true"/>
-<img style="width: auto; height: 190px;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatMustafov&layout=compact&theme=tokyonight"/>
+<img style="width: auto; height: 190px;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MithatMustafov&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 
